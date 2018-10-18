@@ -1,0 +1,5 @@
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\twacha\twacha\bin\twacha.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\twacha\twacha\bin\twacha.pdb
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\twacha\twacha\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\twacha\twacha\obj\Debug\twacha.dll
+C:\Users\toshiba\Documents\Visual Studio 2010\Projects\twacha\twacha\obj\Debug\twacha.pdb
